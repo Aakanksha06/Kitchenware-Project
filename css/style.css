@@ -1,0 +1,49 @@
+.body{
+  background-color: grey;
+}
+
+.w3-main{
+  margin-left:100px;
+}
+
+.w3-main img{
+  width:100%;
+  height:60%;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+.w3-main i{
+  color: red;
+}
+.w3-main h1{
+  display: block;
+  font-weight: bold;
+  color: black;
+  font-family: arial sans-serif;
+}
+.w3-main button{
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+.w3-main button:hover {
+  opacity: 0.7;
+}
+.price {
+  color: grey;
+  font-size: 22px;
+}
+.section {
+  padding: 20px;
+  display: block;
+  background: #ddd;
+  padding-left: 390px;
+}
+.desc{
+    font-weight:normal
+}​
